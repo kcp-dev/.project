@@ -1,0 +1,50 @@
+# Maintainer roster for kcp
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+maintainers:
+  - project_id: "kcp"
+    org: "kcp-dev"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - clubanderson
+          - embik
+          - mjudeikis
+          - ntnn
+          - scheeles
+          - sttts
+          - xmudrii
+          - xrstf
+          - david-martin
+          - davidfestal
+          - jasonmadigan
+          - jmprusi
+          - makslion
+          - maleck13
+          - mikenairn
+          - ncdc
+          - philbrookes
+          - R-Lawton
+          - sergioifg94
+          - stevekuznetsov
+          - controller-runtime-admins
+          - controller-runtime-maintainers
+          - controller-runtime-approvers
+          - dinhxuanvu
+          - varshaprasad96
+          - fgiloux
+          - simontheleg
+      - name: "reviewers"
+        members:
+          - controller-runtime-admins
+          - controller-runtime-maintainers
+          - controller-runtime-approvers
+          - controller-runtime-reviewers
+          - mjudeikis
+          - embik
+          - xrstf
+          - sttts
+          - davidfestal
+          - ncdc
+          - stevekuznetsov

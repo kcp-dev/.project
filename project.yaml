@@ -1,0 +1,67 @@
+# .project metadata for kcp
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+# TODO: Set identity_type under legal (has_dco, has_cla)
+# TODO: Add package_managers if distributed via registries
+
+schema_version: "1.0.0"
+slug: "kcp"
+name: "kcp"
+description: "Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads."
+type: "project"
+project_lead: "clubanderson" # TODO: AUTO-DETECTED — please verify
+cncf_slack_channel: "#kcp-dev" # TODO: AUTO-DETECTED — please verify
+
+maturity_log:
+  - phase: "sandbox"
+    date: "2023-09-19T00:00:00Z"
+    issue: "https://github.com/cncf/sandbox/issues/47" # TODO: AUTO-DETECTED — please verify
+
+repositories:
+  - "https://github.com/kcp-dev/kcp"
+
+website: "https://kcp.io"
+
+artwork: "https://landscape.cncf.io/logos/kcp.svg"
+
+adopters:
+  path: "https://github.com/kcp-dev/kcp/blob/main/ADOPTERS.md"
+
+# TODO: Add package manager identifiers if your project is distributed via registries
+# package_managers:
+#   docker: "kcp-dev/kcp"
+
+social:
+  twitter: "https://twitter.com/kcp"
+
+security:
+  policy:
+    path: "https://github.com/kcp-dev/kcp/blob/main/SECURITY.md"
+  contact:
+    advisory_url: "https://github.com/kcp-dev/kcp/security/advisories/new"
+
+governance:
+  contributing:
+    path: "https://github.com/kcp-dev/kcp/blob/main/CONTRIBUTING.md"
+  code_of_conduct:
+    path: "https://github.com/kcp-dev/kcp/blob/main/code-of-conduct.md"
+
+legal:
+  license:
+    path: "https://github.com/kcp-dev/kcp/blob/main/LICENSE"
+  identity_type:
+    has_dco: true
+    has_cla: false
+    dco_url:
+      path: "https://developercertificate.org/"
+
+documentation:
+  readme:
+    path: "https://github.com/kcp-dev/kcp/blob/main/README.md"
+
+landscape:
+  category: "Orchestration & Management"
+  subcategory: "Scheduling & Orchestration"
+
+# CLOMonitor Score: 85/100
+# Documentation: 97 | License: 100 | Best Practices: 68 | Security: 68
