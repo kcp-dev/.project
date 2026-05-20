@@ -9,8 +9,8 @@ slug: "kcp"
 name: "kcp"
 description: "Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads."
 type: "project"
-project_lead: "clubanderson" # TODO: AUTO-DETECTED — please verify
-cncf_slack_channel: "#kcp-dev" # TODO: AUTO-DETECTED — please verify
+project_lead: "sttts" 
+cncf_slack_channel: "#kcp-users" 
 
 maturity_log:
   - phase: "sandbox"
