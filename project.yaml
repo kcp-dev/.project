@@ -22,7 +22,7 @@ repositories:
 
 website: "https://kcp.io"
 
-artwork: "https://landscape.cncf.io/logos/kcp.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kcp"
 
 adopters:
   path: "https://github.com/kcp-dev/kcp/blob/main/ADOPTERS.md"
